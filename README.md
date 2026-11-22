@@ -4,6 +4,10 @@
 
 To allow keyword search over encrypted research documents in the cloud.
 
+## Screenshot
+
+![Web GUI - Search Demo](screenshot.jpg)
+
 ## Required Software
 
 - Python 3.8+
